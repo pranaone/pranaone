@@ -30,4 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaone&show_icons=true&locale=en&layout=compact" alt="pranaone" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranaone&show_icons=true&locale=en" alt="pranaone" /></p>
