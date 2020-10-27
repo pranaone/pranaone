@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<pranaone>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranaone&show_icons=true&theme=radical" />
 
 
 <!--
