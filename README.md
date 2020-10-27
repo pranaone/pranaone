@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranaone&label=Profile%20views&color=0e75b6&style=flat" alt="pranaone" /> </p>
 
-- 🔭 I’m currently working on **Ridesharing Application**
+- 🔭 I’m currently working on **a ridesharing application**
 
 - 🌱 I’m currently learning **Angular & React Native**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - ⚡ Fun fact **I'm an avid gamer and movie buff**
 
