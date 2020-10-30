@@ -29,9 +29,13 @@
 
 <h3 align="left"> 💖 Support Me </h3>  
 
-I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously, this takes time. You can use this service for free.
+I open-source almost everything I can, and I try to reply to everyone needing help using these projects. 
 
-However, if you are using my repos and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
+Obviously, this takes time. You can use this service for free.
+
+However, if you are using my repos and happy with it or just want to encourage me to continue creating stuff,
+
+there are few ways you can do it:-
 
 - Giving proper credit on your readme, linking back to it :D
 
