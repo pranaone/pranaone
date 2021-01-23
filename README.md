@@ -31,5 +31,5 @@
 <a href="https://dev.to/pranaone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranaone" height="30" width="40" /></a>
 </div>
 <br><br>
-<p align="center> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaone&show_icons=true&locale=en&layout=compact" alt="pranaone" />  </p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaone&show_icons=true&locale=en&layout=compact" alt="pranaone" />  </p>
   
