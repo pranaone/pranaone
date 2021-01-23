@@ -6,7 +6,7 @@
 
 <br><br>
 
-<p align="center>
+<p align="center">
 - 🚧 I’m currently working on **A Ridesharing Application**
 
 - 📖 I’m currently learning **Angular & React Native**
