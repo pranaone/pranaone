@@ -6,7 +6,8 @@
 
 <br><br>
 
-<p align="center">
+<div align="center">
+  
 - 🚧 I’m currently working on **A Ridesharing Application**
 
 - 📖 I’m currently learning **Angular & React Native**
@@ -15,7 +16,7 @@
 
 - ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
-</p>
+</div>
 
 <h3 align="center"> ✉️ Reach me on :</h3>
 <div align="center">
