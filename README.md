@@ -4,6 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranaone&label=Profile%20views&color=0e75b6&style=flat" alt="pranaone" /> </p>
 
+<br><br>
+
+<p align="center>
 - 🚧 I’m currently working on **A Ridesharing Application**
 
 - 📖 I’m currently learning **Angular & React Native**
@@ -11,6 +14,8 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
+
+</p>
 
 <h3 align="center"> ✉️ Reach me on :</h3>
 <div align="center">
@@ -24,5 +29,5 @@
 <a href="https://medium.com/@pranaxone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pranaxone" height="30" width="40" /></a>
 <a href="https://dev.to/pranaone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranaone" height="30" width="40" /></a>
 </div>
-
+<br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaone&show_icons=true&locale=en&layout=compact" alt="pranaone" />   
