@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
 <h3 align="center"> ✉️ Reach me on :</h3>
-<p align="center">
+<div align="center">
 <a href="mailto:pranaxone@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="pranaone" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranaone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranaone" height="30" width="40" /></a>
 <a href="https://twitter.com/pranaone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pranaone" height="30" width="40" /></a>
@@ -23,6 +23,6 @@
 <a href="https://stackoverflow.com/users/9611766" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9611766" height="30" width="40" /></a>
 <a href="https://medium.com/@pranaxone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pranaxone" height="30" width="40" /></a>
 <a href="https://dev.to/pranaone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranaone" height="30" width="40" /></a>
-</p>
+</div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaone&show_icons=true&locale=en&layout=compact" alt="pranaone" />   
