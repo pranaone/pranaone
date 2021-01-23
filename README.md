@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi there 👋, I'm Pranavan :sunglasses: </h1>
 <h3 align="center">A Software Engineer & Tech Enthusiast</h3>
 
@@ -26,4 +27,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaone&show_icons=true&locale=en&layout=compact" alt="pranaone" />   
 
-
+</center>
