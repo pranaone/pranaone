@@ -8,11 +8,9 @@
 
 <div align="center">
   
-🚧 I’m currently working on **A Ridesharing Application**
+🚧 I’m currently working on **A Event Management Application**
 
-📖 I’m currently learning **Angular & React Native**
-
-👯 I’m looking to collaborate on **Open Source Projects**
+📖 I’m currently learning **Angular / React Native / Python**
 
 ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
