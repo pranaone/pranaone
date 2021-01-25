@@ -10,7 +10,7 @@
   
 🚧 I’m currently working on an **Event Management Application**
 
-📖 I’m currently learning **JAVA EE / SPRING (CORE/MVC/JDBC) / ORACLE**
+📖 I’m currently learning **JAVA EE  / SPRING (CORE/MVC/JDBC) / ORACLE / HIBERNATE**
 
 ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
