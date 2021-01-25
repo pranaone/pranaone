@@ -10,7 +10,7 @@
   
 🚧 I’m currently working on an **Event Management Application**
 
-📖 I’m currently learning **Angular / React Native / Python**
+📖 I’m currently learning **JAVA EE / SPRING (CORE/MVC/JDBC) / ORACLE**
 
 ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
