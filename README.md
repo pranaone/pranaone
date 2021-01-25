@@ -8,7 +8,7 @@
 
 <div align="center">
   
-🚧 I’m currently working on **A Event Management Application**
+🚧 I’m currently working on an **Event Management Application**
 
 📖 I’m currently learning **Angular / React Native / Python**
 
