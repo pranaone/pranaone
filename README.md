@@ -17,7 +17,7 @@
 ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
 </div>
-
+<br><br>
 <h3 align="center"> ✉️ Reach me on :</h3>
 <div align="center">
 <a href="mailto:pranaxone@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="pranaone" height="30" width="40" /></a>
