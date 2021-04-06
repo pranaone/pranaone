@@ -8,9 +8,9 @@
 
 <div align="center">
   
-🚧 I’m currently working on an **Event Management Application**
+🚧 I’m currently working on an **//**
 
-📖 I’m currently learning **JAVA EE  / SPRING (CORE/MVC/JDBC) / ORACLE / HIBERNATE**
+📖 I’m currently learning **Angular **
 
 ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
