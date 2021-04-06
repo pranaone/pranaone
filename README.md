@@ -8,7 +8,7 @@
 
 <div align="center">
   
-<!--🚧 I’m currently working on **//**-->
+🚧 I’m currently working on **Angular Project with .NET 5**
 
 📖 I’m currently learning **Angular**
 
