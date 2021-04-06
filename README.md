@@ -8,9 +8,9 @@
 
 <div align="center">
   
-🚧 I’m currently working on **//**
+<!--🚧 I’m currently working on **//**-->
 
-📖 I’m currently learning **Angular **
+📖 I’m currently learning **Angular**
 
 ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
