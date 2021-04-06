@@ -8,7 +8,7 @@
 
 <div align="center">
   
-🚧 I’m currently working on an **//**
+🚧 I’m currently working on **//**
 
 📖 I’m currently learning **Angular **
 
