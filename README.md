@@ -8,9 +8,9 @@
 
 <div align="center">
   
-🚧 I’m currently working on **Angular Project with .NET 5**
+🚧 I’m currently working on **Ecommerce Application**
 
-📖 I’m currently learning **Angular**
+📖 I’m currently learning **React**
 
 ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
