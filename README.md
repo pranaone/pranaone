@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Pranavan :sunglasses: </h1>
-<h3 align="center">A Software Engineer & Tech Enthusiast</h3>
+<h3 align="center">Software Engineer & Tech Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranaone&label=Profile%20views&color=0e75b6&style=flat" alt="pranaone" /> </p>
 
