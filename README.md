@@ -8,9 +8,9 @@
 
 <div align="center">
   
-🚧 I’m currently working on an **E-Commerce Application**
+🚧 I’m currently working on a **PWA**
 
-📖 I’m currently learning **React**
+📖 I’m currently learning **MEAN Stack**
 
 ⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
 
