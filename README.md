@@ -12,7 +12,7 @@
 
 📖 I’m currently learning **MEAN Stack**
 
-⚡ Fun fact **I'm an avid gamer 🎮 and movie buff 🎬**
+⚡ Fun fact **I'm an casual gamer 🎮 and movie buff 🎬**
 
 </div>
 
