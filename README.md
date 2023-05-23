@@ -6,18 +6,6 @@
 
 <br>
 
-<div align="center">
-  
-🚧 I’m currently working on a **PWA**
-
-📖 I’m currently learning **MEAN Stack**
-
-⚡ Fun fact **I'm an casual gamer 🎮 and movie buff 🎬**
-
-</div>
-
-<br>
-
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranaone&show_icons=true&locale=en&layout=compact" alt="pranaone" />  
 </p>
